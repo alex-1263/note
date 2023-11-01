@@ -48,5 +48,5 @@
 ## 创建一个SSH Key
 使用`ssh-keygen -t rsa -C "youremail@example.com"`创建一个key,在用户目录中找到`id_rsa.pub`将其中keyt添加到GitHub中
 ## 添加远程库
-
+使用**GitHub** crate a new Repository,填入你想创建的
 
