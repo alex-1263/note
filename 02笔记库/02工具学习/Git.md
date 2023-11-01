@@ -1,5 +1,5 @@
 ---
-uid:
+uid: '{"{date:YYYYMMDDHHmm}":null}'
 ---
 # 安装
 
