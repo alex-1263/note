@@ -50,6 +50,8 @@
 ## 添加远程库
 使用**GitHub** crate a new Repository,填入你想创建的远程库的名字后,根据GitHub上的提示在**git Bash**上运行下面代码
 ```bash
-
+ git remote add origin git@github.com:michaelliao/learngit.git
+ git branch
+ git push -u origin master
 ```
-
+推送成功后,即可在GitHub上看到自己的代码
