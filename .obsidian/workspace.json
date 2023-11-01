@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "460e800db621dfd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "请先阅读这里（Readme）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "748c8f7bda1e18f7",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,12 +176,12 @@
   },
   "active": "748c8f7bda1e18f7",
   "lastOpenFiles": [
-    "02笔记库/这里可以放置你的笔记.md",
+    "请先阅读这里（Readme）.md",
     "02笔记库/02工具学习/Git.md",
+    "02笔记库/这里可以放置你的笔记.md",
     "Zettelkasten/202109121613第一张ZK笔记.md",
     "日记/2021-12-06.md",
     "附件/Pasted image 20231101084721.png",
-    "请先阅读这里（Readme）.md",
     "附件/Pasted image 20210912162722.png",
     "00演示文件夹/看板演示.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
