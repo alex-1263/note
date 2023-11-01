@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "模板/ZK笔记模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96e4cf95d1653caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模板/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "模板/ZK笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md"
+                "file": "模板/ZK笔记模板.md"
               }
             }
           },
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "模板/ZK笔记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +188,10 @@
   },
   "active": "748c8f7bda1e18f7",
   "lastOpenFiles": [
-    "请先阅读这里（Readme）.md",
+    "模板/未命名.md",
+    "模板/ZK笔记模板.md",
     "02笔记库/02工具学习/Git.md",
+    "请先阅读这里（Readme）.md",
     "02笔记库/这里可以放置你的笔记.md",
     "Zettelkasten/202109121613第一张ZK笔记.md",
     "日记/2021-12-06.md",
@@ -185,7 +199,6 @@
     "附件/Pasted image 20210912162722.png",
     "00演示文件夹/看板演示.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
-    "模板/ZK笔记模板.md",
     "工具学习/git/git 如何添加文件.md",
     "工具学习/git",
     "02笔记库/02工具学习",

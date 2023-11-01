@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ZK笔记模板",
+      "path": "模板/ZK笔记模板.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "模板/未命名.md"
+    },
+    {
       "basename": "Git",
       "path": "02笔记库/02工具学习/Git.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Excalidraw演示.excalidraw",
       "path": "00演示文件夹/Excalidraw演示.excalidraw.md"
-    },
-    {
-      "basename": "ZK笔记模板",
-      "path": "模板/ZK笔记模板.md"
     }
   ],
   "omittedPaths": [],
