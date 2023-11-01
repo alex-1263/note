@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "ZK笔记模板",
+      "path": "模板/ZK笔记模板.md"
+    },
+    {
+      "basename": "题解模板",
+      "path": "模板/题解模板.md"
+    },
+    {
+      "basename": "2021-12-06",
+      "path": "日记/2021-12-06.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "日记/未命名.md"
+    },
+    {
+      "basename": "请先阅读这里（Readme）",
+      "path": "请先阅读这里（Readme）.md"
+    },
+    {
       "basename": "202109121613第一张ZK笔记",
       "path": "Zettelkasten/202109121613第一张ZK笔记.md"
     },
@@ -17,28 +37,12 @@
       "path": "附件/Pasted image 20231101084721.png"
     },
     {
-      "basename": "请先阅读这里（Readme）",
-      "path": "请先阅读这里（Readme）.md"
-    },
-    {
-      "basename": "题解模板",
-      "path": "模板/题解模板.md"
-    },
-    {
-      "basename": "ZK笔记模板",
-      "path": "模板/ZK笔记模板.md"
-    },
-    {
       "basename": "这里可以放置你的笔记",
       "path": "02笔记库/这里可以放置你的笔记.md"
     },
     {
       "basename": "Drawing 2023-11-01 17.04.31.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-01 17.04.31.excalidraw.md"
-    },
-    {
-      "basename": "2021-12-06",
-      "path": "日记/2021-12-06.md"
     },
     {
       "basename": "看板演示",
