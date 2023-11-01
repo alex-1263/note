@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "57b576b0f9add6fd",
+        "id": "3337c0b3da040fd7",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec71cfb54300c75",
+            "id": "460e800db621dfd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "请先阅读这里（Readme）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "748c8f7bda1e18f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           },
           {
-            "id": "8227de25edb4ce29",
+            "id": "0d46f3f817cb4135",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -151,7 +164,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +173,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -169,19 +182,27 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5ec71cfb54300c75",
+  "active": "748c8f7bda1e18f7",
   "lastOpenFiles": [
     "02笔记库/这里可以放置你的笔记.md",
     "02笔记库/02工具学习/Git.md",
+    "Zettelkasten/202109121613第一张ZK笔记.md",
+    "日记/2021-12-06.md",
+    "附件/Pasted image 20231101084721.png",
     "请先阅读这里（Readme）.md",
+    "附件/Pasted image 20210912162722.png",
     "00演示文件夹/看板演示.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
+    "模板/ZK笔记模板.md",
+    "工具学习/git/git 如何添加文件.md",
+    "工具学习/git",
+    "02笔记库/02工具学习",
     "未命名.md",
-    "00演示文件夹/Excalidraw演示.md",
-    "日记/2021-12-06.md",
-    "模板/ZK笔记模板.md"
+    "00演示文件夹/Excalidraw演示.md"
   ]
 }

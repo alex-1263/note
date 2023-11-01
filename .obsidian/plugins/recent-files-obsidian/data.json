@@ -9,8 +9,20 @@
       "path": "02笔记库/这里可以放置你的笔记.md"
     },
     {
+      "basename": "202109121613第一张ZK笔记",
+      "path": "Zettelkasten/202109121613第一张ZK笔记.md"
+    },
+    {
+      "basename": "2021-12-06",
+      "path": "日记/2021-12-06.md"
+    },
+    {
       "basename": "请先阅读这里（Readme）",
       "path": "请先阅读这里（Readme）.md"
+    },
+    {
+      "basename": "Pasted image 20210912162722",
+      "path": "附件/Pasted image 20210912162722.png"
     },
     {
       "basename": "看板演示",
@@ -19,9 +31,12 @@
     {
       "basename": "Excalidraw演示.excalidraw",
       "path": "00演示文件夹/Excalidraw演示.excalidraw.md"
+    },
+    {
+      "basename": "ZK笔记模板",
+      "path": "模板/ZK笔记模板.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null,
-  "openType": "tab"
+  "maxLength": null
 }

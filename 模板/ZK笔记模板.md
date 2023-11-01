@@ -1,7 +1,8 @@
 ---
 title: 
-uid: {{date:YYYYMMDDHHmm}}
-aliases: []
-tags: []
-from: 
+uid:
+  "{ date:YYYYMMDDHHmm }": 
+aliases: 
+tags: 
+from:
 ---
