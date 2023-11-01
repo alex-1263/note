@@ -44,4 +44,6 @@
 在将文件**回退版本**后,如果想要撤销可以使用`git reflog`命令,获得**修改历史**,找到需要回退的版本的**commit id**,输入**commit id**,不需要完全输入,只要前几位相同,**git**会帮我们找到匹配的版本,使用`git reset --hard commitid`命令
 
 
-连接远端库
+# 远端库
+## 创建一个SSH Key
+使用`ssh-keygen -t rsa -C "youremail@example.com"
