@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asdf.md",
+                "file": "模板/题解模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asdf.md",
+                "file": "模板/题解模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asdf.md"
+                "file": "模板/题解模板.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asdf.md",
+                "file": "模板/题解模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0c468a12159001c4",
+  "active": "b03c4e27d814f14f",
   "lastOpenFiles": [
     "请先阅读这里（Readme）.md",
     "asdf.md",
