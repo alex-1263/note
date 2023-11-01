@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板/题解模板.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/题解模板.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/题解模板.md"
+                "file": "02笔记库/02工具学习/Git.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/题解模板.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +184,9 @@
   },
   "active": "b03c4e27d814f14f",
   "lastOpenFiles": [
+    "模板/题解模板.md",
     "请先阅读这里（Readme）.md",
     "模板/ZK笔记模板.md",
-    "模板/题解模板.md",
     "日记/2021-12-06.md",
     "日记/未命名.md",
     "Zettelkasten/202109121613第一张ZK笔记.md",
