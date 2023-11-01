@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "请先阅读这里（Readme）.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "请先阅读这里（Readme）.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "请先阅读这里（Readme）.md"
+                "file": "02笔记库/02工具学习/Git.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "请先阅读这里（Readme）.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74ee6c3a8edaffbc",
+  "active": "5ec71cfb54300c75",
   "lastOpenFiles": [
-    "请先阅读这里（Readme）.md",
     "02笔记库/这里可以放置你的笔记.md",
+    "02笔记库/02工具学习/Git.md",
+    "请先阅读这里（Readme）.md",
     "00演示文件夹/看板演示.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
     "未命名.md",
