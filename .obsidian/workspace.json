@@ -11,8 +11,12 @@
             "id": "748c8f7bda1e18f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "模板/ZK笔记模板.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b177cc7484fb34d9",
@@ -112,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "模板/ZK笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "模板/ZK笔记模板.md"
+              }
             }
           },
           {
@@ -147,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "模板/ZK笔记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
