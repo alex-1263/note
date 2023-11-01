@@ -62,5 +62,5 @@
  git clone git@github.com:michaelliao/gitskills.git
 ```
 # 分支管理
-### 创建分支
-`git checkout`
+### 创建分支与合并
+`git branch xx`ke'y
