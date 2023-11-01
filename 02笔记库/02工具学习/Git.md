@@ -55,3 +55,5 @@
  git push -u origin master
 ```
 推送成功后,即可在GitHub上看到自己的代码
+## 从远程库克隆
+使用**GitHub** crate a new Repository,填入你想创建的远程库的名字,并勾选后
