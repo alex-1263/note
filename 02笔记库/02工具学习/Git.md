@@ -1,3 +1,6 @@
+---
+uid:
+---
 # 安装
 
 在git官网[download](https://git-scm.com/downloads)，然后默认配置安装。
