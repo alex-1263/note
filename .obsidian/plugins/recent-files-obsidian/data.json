@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "题解模板",
+      "path": "模板/题解模板.md"
+    },
+    {
+      "basename": "ZK笔记模板",
+      "path": "模板/ZK笔记模板.md"
+    },
+    {
       "basename": "这里可以放置你的笔记",
       "path": "02笔记库/这里可以放置你的笔记.md"
     },
@@ -9,16 +17,8 @@
       "path": "Excalidraw/Drawing 2023-11-01 17.04.31.excalidraw.md"
     },
     {
-      "basename": "题解模板",
-      "path": "模板/题解模板.md"
-    },
-    {
       "basename": "Git",
       "path": "02笔记库/02工具学习/Git.md"
-    },
-    {
-      "basename": "ZK笔记模板",
-      "path": "模板/ZK笔记模板.md"
     },
     {
       "basename": "请先阅读这里（Readme）",
