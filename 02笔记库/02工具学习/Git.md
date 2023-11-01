@@ -65,4 +65,4 @@
 ### 创建分支与合并
 `git branch dev`可以创建一个名为`dev`的分支,使用`git checkout dev`可以将当前分支切换为`dev`
 git中的分支其实就是一个指针,所以git合并分支的速度会很快
-当在`dev`中对一个文件并修改后,只能在`dev`分支中查看到,如果想在`master`分支中查看,需要使用`git `
+当在`dev`中对一个文件并修改后,只能在`dev`分支中查看到,如果想在`master`分支中查看,需要先将分支切换到`master`,然后再使用`git merge dev`将`dev`分支中的修改tong'bu
