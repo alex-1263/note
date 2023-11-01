@@ -63,4 +63,5 @@
 ```
 # 分支管理
 ### 创建分支与合并
-`git branch xx`ke'y
+`git branch xx`可以创建一个名为`xx`的分支,使用`git checkout xx`可以将当前分支切换为`xx`
+git中的分支其实就是一个指针,所以githe'b
