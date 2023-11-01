@@ -59,5 +59,5 @@
 使用**GitHub** crate a new Repository,填入你想创建的远程库的名字,并勾选`Initialize this repository with a README`,或者从已经有的库中进行克隆
 运行如下代码
 ```bash
-
+ git clone git@github.com:michaelliao/gitskills.git
 ```
