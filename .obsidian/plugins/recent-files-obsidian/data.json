@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "单词",
+      "path": "02笔记库/English Study/四级/单词.md"
+    },
+    {
       "basename": "Git",
       "path": "02笔记库/02工具学习/Git.md"
+    },
+    {
+      "basename": "题解模板",
+      "path": "模板/题解模板.md"
     },
     {
       "basename": "P2615神奇的幻方",
@@ -11,10 +19,6 @@
     {
       "basename": "未命名",
       "path": "模板/未命名.md"
-    },
-    {
-      "basename": "题解模板",
-      "path": "模板/题解模板.md"
     },
     {
       "basename": "ZK笔记模板",
