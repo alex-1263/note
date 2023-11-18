@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "a9296116cd528f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b8083a020faecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89334ebaf0fe5e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/English Study/四级/单词课/词汇构造法－词根词缀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad4624d0691c6278",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "32b6fc4ff8c47306",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "63dee70301dadd28",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "72431f07161c7fec",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "49ce191585beae7f",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "da315e25c3614326",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c1311b6e2f94fda9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4895b00d95bf0f4a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02笔记库/English Study/四级/单词课/词汇构造法－词根词缀.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "071a9eac9808ea9c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02笔记库/English Study/四级/单词课/词汇构造法－词根词缀.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "80587bfc336852a7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02笔记库/English Study/四级/单词课/词汇构造法－词根词缀.md"
+          }
+        }
+      },
+      {
+        "id": "2376c46a86fe8a8b",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "89334ebaf0fe5e81",
+  "lastOpenFiles": [
+    "日记/2023-11-18.md",
+    "02笔记库/English Study/四级/单词课/词汇构造法－词根词缀.md",
+    "02笔记库/02工具学习/Git.md",
+    "02笔记库/English Study/四级/单词课",
+    "02笔记库/English Study/四级/单词.md",
+    "02笔记库/English Study/四级",
+    "02笔记库/English Study",
+    "02笔记库/01题解/P2615神奇的幻方.md",
+    "02笔记库/01题解",
+    "附件/Pasted image 20231114182921.png",
+    "附件/Pasted image 20231114182802.png",
+    "Excalidraw/Drawing 2023-11-03 01.51.32.excalidraw.md",
+    "Zettelkasten/202311030151.md",
+    "Zettelkasten/202311030152.md",
+    "请先阅读这里（Readme）.md",
+    "02笔记库/这里可以放置你的笔记.md",
+    "00演示文件夹/看板演示.md",
+    "00演示文件夹/Excalidraw演示.excalidraw.md",
+    "未命名.md",
+    "00演示文件夹/Excalidraw演示.md"
+  ]
+}
