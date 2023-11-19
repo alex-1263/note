@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02笔记库/English Study/四级/单词课/预备课1 词汇构造法－词根词缀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efc1031f743315ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "02笔记库/02工具学习/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,11 +166,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "89334ebaf0fe5e81",
+  "active": "efc1031f743315ff",
   "lastOpenFiles": [
     "02笔记库/English Study/四级/单词课/预备课1 词汇构造法－词根词缀.md",
-    "日记/2023-11-18.md",
     "02笔记库/02工具学习/Git.md",
+    "日记/2023-11-18.md",
     "02笔记库/English Study/四级/单词课",
     "02笔记库/English Study/四级/单词.md",
     "02笔记库/English Study/四级",
