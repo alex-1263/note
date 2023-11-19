@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02笔记库/02工具学习/Git.md",
+            "file": "02笔记库/English Study/四级/单词课/预备课1 词汇构造法－词根词缀.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02笔记库/02工具学习/Git.md",
+            "file": "02笔记库/English Study/四级/单词课/预备课1 词汇构造法－词根词缀.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +134,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "02笔记库/02工具学习/Git.md"
+            "file": "02笔记库/English Study/四级/单词课/预备课1 词汇构造法－词根词缀.md"
           }
         }
       },
@@ -166,8 +165,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "efc1031f743315ff",
+  "active": "89334ebaf0fe5e81",
   "lastOpenFiles": [
+    "模板/ZK笔记模板.md",
     "02笔记库/English Study/四级/单词课/预备课1 词汇构造法－词根词缀.md",
     "02笔记库/02工具学习/Git.md",
     "日记/2023-11-18.md",
