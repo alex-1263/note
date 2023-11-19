@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02笔记库/02工具学习/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e0d07938e4416d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "02笔记库/English Study/四级/单词课/01第一讲.md",
                 "mode": "source",
                 "source": false
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/English Study/四级/单词课/01第一讲.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/English Study/四级/单词课/01第一讲.md"
+                "file": "02笔记库/02工具学习/Git.md"
               }
             }
           },
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/English Study/四级/单词课/01第一讲.md",
+                "file": "02笔记库/02工具学习/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,18 +196,18 @@
   },
   "active": "3a61066297795501",
   "lastOpenFiles": [
-    "02笔记库/English Study/四级/单词.md",
-    "02笔记库/这里可以放置你的笔记.md",
+    "02笔记库/English Study/四级/单词课/01第一讲.md",
     "02笔记库/English Study/四级/单词课/00预备课1 词汇构造法－词根词缀.md",
+    "02笔记库/English Study/四级/单词.md",
+    "02笔记库/02工具学习/Git.md",
+    "02笔记库/这里可以放置你的笔记.md",
     "02笔记库/English Study/四级/单词课/00预备课2 如何提高听力.md",
     "02笔记库/English Study/四级/单词课/00预备课3 如何记笔记.md",
     "02笔记库/English Study/四级/单词课/00预备课4 如何补充课外阅读.md",
     "02笔记库/English Study/四级/单词课/00预备课5 大学生必须知道的英文术语.md",
     "未命名.md",
-    "02笔记库/English Study/四级/单词课/01第一讲.md",
     "02笔记库/English Study/四级",
     "02笔记库/English Study",
-    "02笔记库/02工具学习/Git.md",
     "模板/题解模板.md",
     "02笔记库/01题解/P2615神奇的幻方.md",
     "附件/Pasted image 20231114182921.png",
