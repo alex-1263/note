@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b8083a020faecb",
+        "id": "0ffefa62fedd2a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "5e11d47350ccba34",
+            "id": "f72446fdcca76a38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02笔记库/English Study/四级/单词课/预备课5 大学生必须知道的英文术语.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02笔记库/English Study/四级/单词课/预备课5 大学生必须知道的英文术语.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02笔记库/English Study/四级/单词课/预备课5 大学生必须知道的英文术语.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "02笔记库/English Study/四级/单词课/预备课5 大学生必须知道的英文术语.md"
-          }
+          "state": {}
         }
       },
       {
@@ -153,7 +145,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5e11d47350ccba34",
+  "active": "f72446fdcca76a38",
   "lastOpenFiles": [
     "02笔记库/English Study/四级/单词课/预备课5 大学生必须知道的英文术语.md",
     "02笔记库/English Study/四级/单词课/预备课4 如何补充课外阅读.md",
