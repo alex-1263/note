@@ -169,12 +169,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3a61066297795501",
+  "active": "74ee6c3a8edaffbc",
   "lastOpenFiles": [
     "02笔记库/English Study/四级/单词.md",
     "02笔记库/English Study/四级",
