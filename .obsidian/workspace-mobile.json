@@ -140,7 +140,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -150,7 +149,8 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "89334ebaf0fe5e81",
