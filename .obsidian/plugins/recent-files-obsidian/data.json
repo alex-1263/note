@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "预备课1 词汇构造法－词根词缀",
-      "path": "02笔记库/English Study/四级/单词课/预备课1 词汇构造法－词根词缀.md"
+      "basename": "01第一讲",
+      "path": "02笔记库/English Study/四级/单词课/01第一讲.md"
     },
     {
-      "basename": "2023-11-18",
-      "path": "日记/2023-11-18.md"
+      "basename": "00预备课1 词汇构造法－词根词缀",
+      "path": "02笔记库/English Study/四级/单词课/00预备课1 词汇构造法－词根词缀.md"
+    },
+    {
+      "basename": "00预备课2 如何提高听力",
+      "path": "02笔记库/English Study/四级/单词课/00预备课2 如何提高听力.md"
+    },
+    {
+      "basename": "00预备课3 如何记笔记",
+      "path": "02笔记库/English Study/四级/单词课/00预备课3 如何记笔记.md"
+    },
+    {
+      "basename": "00预备课4 如何补充课外阅读",
+      "path": "02笔记库/English Study/四级/单词课/00预备课4 如何补充课外阅读.md"
+    },
+    {
+      "basename": "00预备课5 大学生必须知道的英文术语",
+      "path": "02笔记库/English Study/四级/单词课/00预备课5 大学生必须知道的英文术语.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
       "basename": "Git",
       "path": "02笔记库/02工具学习/Git.md"
+    },
+    {
+      "basename": "ZK笔记模板",
+      "path": "模板/ZK笔记模板.md"
+    },
+    {
+      "basename": "2023-11-18",
+      "path": "日记/2023-11-18.md"
     },
     {
       "basename": "P2615神奇的幻方",
@@ -39,10 +67,6 @@
     {
       "basename": "题解模板",
       "path": "模板/题解模板.md"
-    },
-    {
-      "basename": "ZK笔记模板",
-      "path": "模板/ZK笔记模板.md"
     },
     {
       "basename": "2021-12-06",
@@ -82,5 +106,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
