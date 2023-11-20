@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "通用",
+      "path": "模板/通用.md"
+    },
+    {
       "basename": "01第一讲",
-      "path": "02笔记库/03English Study/01四级/单词课/01第一讲.md"
+      "path": "02笔记库/03English Study/01四级/01单词课/01第一讲.md"
     },
     {
       "basename": "00预备课2 如何提高听力",
-      "path": "02笔记库/03English Study/01四级/单词课/00预备课2 如何提高听力.md"
+      "path": "02笔记库/03English Study/01四级/01单词课/00预备课2 如何提高听力.md"
     },
     {
       "basename": "00预备课5 大学生必须知道的英文术语",
-      "path": "02笔记库/03English Study/01四级/单词课/00预备课5 大学生必须知道的英文术语.md"
+      "path": "02笔记库/03English Study/01四级/01单词课/00预备课5 大学生必须知道的英文术语.md"
     },
     {
       "basename": "00预备课1 词汇构造法－词根词缀",
-      "path": "02笔记库/03English Study/01四级/单词课/00预备课1 词汇构造法－词根词缀.md"
+      "path": "02笔记库/03English Study/01四级/01单词课/00预备课1 词汇构造法－词根词缀.md"
     },
     {
       "basename": "请先阅读这里（Readme）",
@@ -26,11 +30,11 @@
     },
     {
       "basename": "00预备课3 如何记笔记",
-      "path": "02笔记库/03English Study/01四级/单词课/00预备课3 如何记笔记.md"
+      "path": "02笔记库/03English Study/01四级/01单词课/00预备课3 如何记笔记.md"
     },
     {
       "basename": "00预备课4 如何补充课外阅读",
-      "path": "02笔记库/03English Study/01四级/单词课/00预备课4 如何补充课外阅读.md"
+      "path": "02笔记库/03English Study/01四级/01单词课/00预备课4 如何补充课外阅读.md"
     },
     {
       "basename": "Git",
@@ -63,10 +67,6 @@
     {
       "basename": "202311030152",
       "path": "Zettelkasten/202311030152.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "模板/未命名.md"
     },
     {
       "basename": "题解模板",

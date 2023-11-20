@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/03English Study/01四级/单词课/01第一讲.md",
+                "file": "模板/通用.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/03English Study/01四级/单词课/01第一讲.md",
+                "file": "模板/通用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/03English Study/01四级/单词课/01第一讲.md"
+                "file": "模板/通用.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/03English Study/01四级/单词课/01第一讲.md",
+                "file": "模板/通用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,16 +181,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0c468a12159001c4",
+  "active": "a70a85f8e9df1352",
   "lastOpenFiles": [
-    "02笔记库/03English Study/01四级/单词课/00预备课2 如何提高听力.md",
-    "02笔记库/03English Study/01四级/单词课/01第一讲.md",
-    "02笔记库/03English Study/01四级/单词课/00预备课5 大学生必须知道的英文术语.md",
-    "02笔记库/03English Study/01四级/单词课/00预备课1 词汇构造法－词根词缀.md",
+    "02笔记库/03English Study/01四级/01单词课/01第一讲.md",
+    "02笔记库/03English Study/01四级/01单词课/00预备课2 如何提高听力.md",
+    "02笔记库/03English Study/01四级/01单词课/00预备课5 大学生必须知道的英文术语.md",
+    "02笔记库/03English Study/01四级/01单词课/00预备课1 词汇构造法－词根词缀.md",
     "请先阅读这里（Readme）.md",
     "看板插件（Kanba插件介绍）by 软通达.md",
-    "02笔记库/03English Study/01四级/单词课/00预备课3 如何记笔记.md",
-    "02笔记库/03English Study/01四级/单词课/00预备课4 如何补充课外阅读.md",
+    "02笔记库/03English Study/01四级/01单词课/00预备课3 如何记笔记.md",
+    "02笔记库/03English Study/01四级/01单词课/00预备课4 如何补充课外阅读.md",
     "02笔记库/02工具学习/Git.md",
     "02笔记库/03English Study/01四级/单词.md",
     "02笔记库/这里可以放置你的笔记.md",
@@ -202,7 +202,7 @@
     "附件/Pasted image 20231114182921.png",
     "附件/Pasted image 20231114182802.png",
     "02笔记库/01题解",
-    "模板/未命名.md",
+    "模板/通用.md",
     "模板/ZK笔记模板.md",
     "日记/2021-12-06.md",
     "日记/未命名.md",
