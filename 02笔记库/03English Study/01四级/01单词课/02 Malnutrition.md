@@ -9,7 +9,7 @@ Malnutrition is a **disorder** of your [**food intake**](https://www.english-
 **occurs=happen 发生**
 **unbalanced diet**
 **case 情况**
-**undernourishment 营养不良 **
+**undernourishment 营养不良 nourish 养育**
 
 
 It **occurs** when a person eats too little or too much, or has an **unbalanced diet**. In most cases malnutrition means **undernourishment**, a **lack** of food and not enough calories. It is **widespread** in **developing countries**. On the other side **obesity** occurs in **developed countries** where people eat too much. **According to** the World Health Organization malnutrition is one of the greatest dangers of **global** health. **Currently**, about one **billion** people around the world do not have enough to eat.
