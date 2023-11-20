@@ -4,6 +4,8 @@ uid: 2023-11-20T08:41:00
 # 文章
 **Manlnutrition malign 恶化的 benign --benefit好的 malign tumor 恶性肿瘤 Nutrition 营养**  
 Malnutrition is a **disorder** of your [**food intake**](https://www.english-online.at/health_medicine/nutrition/nutrition-how-the-body-uses-food.htm). 
+**disorder 紊乱**
+**food intake**
 
 It **occurs** when a person eats too little or too much, or has an **unbalanced diet**. In most cases malnutrition means **undernourishment**, a **lack** of food and not enough calories. It is **widespread** in **developing countries**. On the other side **obesity** occurs in **developed countries** where people eat too much. **According to** the World Health Organization malnutrition is one of the greatest dangers of **global** health. **Currently**, about one **billion** people around the world do not have enough to eat.
 ### **When does malnutrition occur**
