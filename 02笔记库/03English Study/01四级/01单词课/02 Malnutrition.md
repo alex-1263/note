@@ -17,6 +17,7 @@ It **occurs** when a person eats too little or too much, or has an **unbalanc
  On the other side **obesity** occurs in **developed countries** where people eat too much.
  
   **According to** the World Health Organization malnutrition is one of the greatest dangers of **global** health. **Currently**, about one **billion** people around the world do not have enough to eat.
+  **Currently--当今--today--nowadays-these days -at present**
  **When does malnutrition occur**
 Malnutrition happens when people **lack** **nutrients**, [vitamins](https://www.english-online.at/health_medicine/vitamins/vitamins%20and%20vitamin-supplements.htm) and minerals. Not enough **proteins** can have negative effects on a person’s growth and lead to **physical** problems. Vitamins are important for good health and the **functioning** of your body. A lack of them can cause **major** problems. Vitamin A **deficiency** may lead to eye problems and blindness. A lack of calcium leads to a bad growth of [bones](https://www.english-online.at/biology/bones/human-bones.htm) and [teeth](https://www.english-online.at/biology/teeth/human-teeth.htm). **Iron deficiency** can **affect** the [**brain**](https://www.english-online.at/biology/human-brain/parts-and-functions-of-the-brain.htm) and lead to a lower IQ rate. It can make children less active and not able to concentrate.
 
