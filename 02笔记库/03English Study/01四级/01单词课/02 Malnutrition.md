@@ -79,8 +79,8 @@ In places with a lack of or dirty drinking [water](https://www.english-online.a
 In developed countries **obesity** is the most **widespread** form of malnutrition. Obese people **consume** more calories than they need. This may lead to [**diabetes**](https://www.english-online.at/health_medicine/diabetes-causes-syptoms-treatment/diabetes.htm) and **contribute** to [heart](https://www.english-online.at/biology/human-heart/heart-and-diseases.htm) problems and [high **blood pressure**](https://www.english-online.at/health_medicine/high-blood-pressure/high-blood-pressure-silent-killer.htm). Too many fats in your diet can lead to high  **cholesterol** levels.
 **Obese= too fat**
 **consume--consumer 消费-消费者**
-
+**cholesterol 胆固醇**
 
 **Solutions and Treatment**
 One way to help **avoid** malnutrition is to **enrich** food with vitamins. For example, milk is enriched with Vitamin D. In Third World countries schools must try to teach children the right eating **habits** and **emphasize** eating vegetables and fruit. **Governments** and other institutions must do their part in educating the population to eat the right things. The World Health Organization and other groups try to help the poorest of these countries with financial **aid** and other support.
-
+**enrich 丰富**
