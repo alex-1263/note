@@ -71,10 +71,14 @@ In places with a lack of or dirty drinking [water](https://www.english-online.a
 - diarrhea
 - **dizziness**
 **decay 退化**
-**fragile 脆弱的=vlunerable 脆弱的 -delicate 脆弱的,易碎**
+**fragile 脆弱的=vlunerable 脆弱的 -delicate(指物) 脆弱的,易碎的**
+**dizziness dizzy头晕**
+
 
  **Depression Obesity**
 In developed countries **obesity** is the most **widespread** form of malnutrition. Obese people **consume** more calories than they need. This may lead to [**diabetes**](https://www.english-online.at/health_medicine/diabetes-causes-syptoms-treatment/diabetes.htm) and **contribute** to [heart](https://www.english-online.at/biology/human-heart/heart-and-diseases.htm) problems and [high **blood pressure**](https://www.english-online.at/health_medicine/high-blood-pressure/high-blood-pressure-silent-killer.htm). Too many fats in your diet can lead to high  **cholesterol** levels.
+
+
 
 **Solutions and Treatment**
 One way to help **avoid** malnutrition is to **enrich** food with vitamins. For example, milk is enriched with Vitamin D. In Third World countries schools must try to teach children the right eating **habits** and **emphasize** eating vegetables and fruit. **Governments** and other institutions must do their part in educating the population to eat the right things. The World Health Organization and other groups try to help the poorest of these countries with financial **aid** and other support.
