@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 Inbox/蓝桥杯备赛.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5c00622e47bed8a4",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
