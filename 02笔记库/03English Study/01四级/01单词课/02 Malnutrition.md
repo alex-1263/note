@@ -77,7 +77,8 @@ In places with a lack of or dirty drinking [water](https://www.english-online.a
 
  **Depression Obesity**
 In developed countries **obesity** is the most **widespread** form of malnutrition. Obese people **consume** more calories than they need. This may lead to [**diabetes**](https://www.english-online.at/health_medicine/diabetes-causes-syptoms-treatment/diabetes.htm) and **contribute** to [heart](https://www.english-online.at/biology/human-heart/heart-and-diseases.htm) problems and [high **blood pressure**](https://www.english-online.at/health_medicine/high-blood-pressure/high-blood-pressure-silent-killer.htm). Too many fats in your diet can lead to high  **cholesterol** levels.
-
+**Obese= too fat**
+**consume--consumer 消费-消费者**
 
 
 **Solutions and Treatment**
