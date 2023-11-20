@@ -28,8 +28,9 @@ Malnutrition happens when people **lack** **nutrients**, [vitamins](https://w
 **effect--influence**
 **physical --- physics物理课**
 **physician 内科医生 surgeon外科医生**
-funtion
-
+**funtion -n.功能 v.运转**
+**deficiency n.缺乏**
+**ca**
 
 Malnutrition **increases** the risk of **diseases** and weakens the immune system. It **affects** the **transmission** of viruses, **including** [HIV](https://www.english-online.at/health_medicine/aids/growth-causes-of-aids.htm). It is **especially** **widespread** among women, children and older people. Children can be at risk even before birth because they **depend** on the mother’s **nutrition**.
 
