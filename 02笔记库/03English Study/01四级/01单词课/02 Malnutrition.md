@@ -48,7 +48,8 @@ One in ten people around the world is **malnourished**. Eating disorders **acc
 
 **Causes of malnutrition**
 One of the major **causes** of malnutrition in [developing countries](https://www.english-online.at/geography/developing-countries/characteristics-of-developing-countries.htm) is **famine** and **drought** which lead to the **unavailability** of food. Many countries in the Third World to not have enough land to grow [food](https://www.english-online.at/health_medicine/nutrition/nutrition-how-the-body-uses-food.htm) on or do not know how to use it. They do not have the money to **afford** imported food. In other countries the government **neglects** the importance of **agriculture** and does not help famers.
-**famine female**
+**famine 饥荒 饥饿 female 女性**
+**drought 干旱**
 
 In places with a lack of or dirty drinking [water](https://www.english-online.at/geography/water/water-cycle-treatment.htm) diseases, like **diarrhea**, lead to **indigestion** of food.
 
