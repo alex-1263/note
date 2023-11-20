@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc79e8b48158d01",
+        "id": "a9c649a11fbff44e",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec71cfb54300c75",
+            "id": "69de0e509b120746",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5ec71cfb54300c75",
+  "active": "69de0e509b120746",
   "lastOpenFiles": [
+    "00 Inbox/蓝桥杯备赛.md",
     "附件/Pasted image 20231121003242.png",
     "附件/Pasted image 20231121003228.png",
     "附件/Pasted image 20231121003150.png",
@@ -186,7 +187,6 @@
     "附件/Pasted image 20231121002329.png",
     "附件/Pasted image 20231121002207.png",
     "conflict-files-obsidian-git.md",
-    "00 Inbox/蓝桥杯备赛.md",
     "请先阅读这里（Readme）.md",
     "02笔记库/这里可以放置你的笔记.md",
     "00演示文件夹/看板演示.md",
