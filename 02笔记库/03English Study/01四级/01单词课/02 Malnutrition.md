@@ -38,6 +38,8 @@ Malnutrition happens when people **lack** **nutrients**, [vitamins](https://w
 Malnutrition **increases** the risk of **diseases** and weakens the immune system. It **affects** the **transmission** of viruses, **including** [HIV](https://www.english-online.at/health_medicine/aids/growth-causes-of-aids.htm). It is **especially** **widespread** among women, children and older people. Children can be at risk even before birth because they **depend** on the mother’s **nutrition**.
 **risk of diseases 疾病的风险**
 **transmission 传播  virus 病毒**
+**depend on =rely on 依赖 dependence=reliance n.**
+**independent 独立的**
 
 
 
