@@ -59,4 +59,4 @@ In places with a lack of or dirty drinking [water](https://www.english-online.a
 **Digestive disorders** may also be causes of malnutrition. People eat properly but their body cannot **digest** the food. In the Third World many mothers do not **breastfeed** their children, thus **weakening** the immune system.
 **diarrhea 腹泻**
 **digestive disorders 消化不良**
-**breast 乳房 b're'ast**
+**breast 乳房 breastfeed 母乳喂养**
