@@ -61,7 +61,7 @@ In places with a lack of or dirty drinking [water](https://www.english-online.a
 **digestive disorders 消化不良**
 **breast 乳房 breastfeed 母乳喂养**
 
-### **Signs of malnutrition**
+ **Signs of malnutrition**
 - tiredness and not enough energy
 - **decaying** teeth
 - poor growth
@@ -70,8 +70,7 @@ In places with a lack of or dirty drinking [water](https://www.english-online.a
 - weakening of **muscles**
 - diarrhea
 - **dizziness**
-- 
-- 
+
  **Depression Obesity**
 In developed countries **obesity** is the most **widespread** form of malnutrition. Obese people **consume** more calories than they need. This may lead to [**diabetes**](https://www.english-online.at/health_medicine/diabetes-causes-syptoms-treatment/diabetes.htm) and **contribute** to [heart](https://www.english-online.at/biology/human-heart/heart-and-diseases.htm) problems and [high **blood pressure**](https://www.english-online.at/health_medicine/high-blood-pressure/high-blood-pressure-silent-killer.htm). Too many fats in your diet can lead to high  **cholesterol** levels.
 
