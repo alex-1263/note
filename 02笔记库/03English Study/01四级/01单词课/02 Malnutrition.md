@@ -51,7 +51,8 @@ One of the major **causes** of malnutrition in [developing countries](https:/
 **famine 饥荒 饥饿 female 女性**
 **drought 干旱**
 **do not know how to use 不知道如何使用**
-
+**afford 负担-affordable **
+**imported 进口-exported 出口**
 
 In places with a lack of or dirty drinking [water](https://www.english-online.at/geography/water/water-cycle-treatment.htm) diseases, like **diarrhea**, lead to **indigestion** of food.
 
