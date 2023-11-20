@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e10b8ea3a88016",
+        "id": "bcaf901416b41845",
         "type": "tabs",
         "children": [
           {
-            "id": "b03c4e27d814f14f",
+            "id": "9f87e1e53f8802d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模板/题解模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1947a4b6afaa4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,15 +174,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c1947a4b6afaa4af",
+  "active": "9f87e1e53f8802d9",
   "lastOpenFiles": [
+    "模板/题解模板.md",
+    "00 Inbox/看板演示.md",
+    "00 Inbox/Excalidraw演示.excalidraw.md",
+    "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md",
+    "未命名",
+    "未命名.md",
     "02笔记库/03English Study/01四级/01单词课/00预备课1 词汇构造法－词根词缀.md",
     "02笔记库/02工具学习/Git.md",
     "conflict-files-obsidian-git.md",
     "附件/Pasted image 20231114182921.png",
     "附件/Pasted image 20231114182802.png",
     "模板/未命名.md",
-    "模板/题解模板.md",
     "模板/ZK笔记模板.md",
     "请先阅读这里（Readme）.md",
     "日记/2021-12-06.md",
@@ -217,8 +201,6 @@
     "02笔记库/这里可以放置你的笔记.md",
     "Excalidraw/Drawing 2023-11-01 17.04.31.excalidraw.md",
     "Excalidraw",
-    "00演示文件夹/看板演示.md",
-    "00演示文件夹/Excalidraw演示.excalidraw.md",
     "工具学习/git/git 如何添加文件.md",
     "工具学习/git",
     "02笔记库/02工具学习",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "题解模板",
+      "path": "模板/题解模板.md"
+    },
+    {
+      "basename": "看板演示",
+      "path": "00 Inbox/看板演示.md"
+    },
+    {
       "basename": "02 Malnutrition",
       "path": "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Git",
       "path": "02笔记库/02工具学习/Git.md"
-    },
-    {
-      "basename": "题解模板",
-      "path": "模板/题解模板.md"
     },
     {
       "basename": "ZK笔记模板",
@@ -51,14 +55,6 @@
     {
       "basename": "Drawing 2023-11-01 17.04.31.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-01 17.04.31.excalidraw.md"
-    },
-    {
-      "basename": "看板演示",
-      "path": "00演示文件夹/看板演示.md"
-    },
-    {
-      "basename": "Excalidraw演示.excalidraw",
-      "path": "00演示文件夹/Excalidraw演示.excalidraw.md"
     }
   ],
   "omittedPaths": [],
