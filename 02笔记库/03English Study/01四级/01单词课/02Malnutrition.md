@@ -1,0 +1,16 @@
+---
+uid: 2023-11-20T08:41:00
+---
+Malnutrition is a **disorder** of your [**food intake**](https://www.english-online.at/health_medicine/nutrition/nutrition-how-the-body-uses-food.htm). It **occurs** when a person eats too little or too much, or has an **unbalanced diet**. In most cases malnutrition means **undernourishment**, a **lack** of food and not enough calories. It is **widespread** in **developing countries**. On the other side **obesity** occurs in **developed countries** where people eat too much. **According to** the World Health Organization malnutrition is one of the greatest dangers of **global** health. **Currently**, about one **billion** people around the world do not have enough to eat.
+### **When does malnutrition occur**
+Malnutrition happens when people **lack** **nutrients**, [vitamins](https://www.english-online.at/health_medicine/vitamins/vitamins%20and%20vitamin-supplements.htm) and minerals. Not enough **proteins** can have negative effects on a person’s growth and lead to **physical** problems. Vitamins are important for good health and the **functioning** of your body. A lack of them can cause **major** problems. Vitamin A **deficiency** may lead to eye problems and blindness. A lack of calcium leads to a bad growth of [bones](https://www.english-online.at/biology/bones/human-bones.htm) and [teeth](https://www.english-online.at/biology/teeth/human-teeth.htm). **Iron deficiency** can **affect** the [**brain**](https://www.english-online.at/biology/human-brain/parts-and-functions-of-the-brain.htm) and lead to a lower IQ rate. It can make children less active and not able to concentrate.
+
+Malnutrition **increases** the risk of **diseases** and weakens the immune system. It **affects** the **transmission** of viruses, **including** [HIV](https://www.english-online.at/health_medicine/aids/growth-causes-of-aids.htm). It is **especially** **widespread** among women, children and older people. Children can be at risk even before birth because they **depend** on the mother’s **nutrition**.
+
+One in ten people around the world is **malnourished**. Eating disorders **account** for 60 million deaths a year, including six million children. It is the main **cause** of child **mortality**.
+### **Causes of malnutrition**
+One of the major **causes** of malnutrition in [developing countries](https://www.english-online.at/geography/developing-countries/characteristics-of-developing-countries.htm) is **famine** and **drought** which lead to the **unavailability** of food. Many countries in the Third World to not have enough land to grow [food](https://www.english-online.at/health_medicine/nutrition/nutrition-how-the-body-uses-food.htm) on or do not know how to use it. They do not have the money to **afford** imported food. In other countries the government **neglects** the importance of **agriculture** and does not help famers.
+
+In places with a lack of or dirty drinking [water](https://www.english-online.at/geography/water/water-cycle-treatment.htm) diseases, like **diarrhea**, lead to **indigestion** of food.
+
+**Digestive disorders** may also be causes of malnutrition. People eat properly but their body cannot **digest** the food. In the Third World many mothers do not **breastfeed** their children, thus **weakening** the immune system.
