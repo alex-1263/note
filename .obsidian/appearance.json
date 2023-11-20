@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 18,
-  "cssTheme": "",
+  "baseFontSize": 16,
+  "cssTheme": "Blue Topaz",
   "theme": "moonstone",
   "enabledCssSnippets": [],
   "accentColor": ""
