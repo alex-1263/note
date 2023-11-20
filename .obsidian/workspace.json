@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/01第二讲.md",
+                "file": "模板/ZK笔记模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/01第二讲.md",
+                "file": "模板/通用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/01第二讲.md"
+                "file": "模板/通用.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/03English Study/01四级/01单词课/01第二讲.md",
+                "file": "模板/通用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,10 +194,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a70a85f8e9df1352",
+  "active": "a83283f375dd7d97",
   "lastOpenFiles": [
-    "02笔记库/03English Study/01四级/01单词课/01第一讲.md",
+    "模板/ZK笔记模板.md",
+    "模板/题解模板.md",
     "02笔记库/03English Study/01四级/01单词课/01第二讲.md",
+    "02笔记库/03English Study/01四级/01单词课/01第一讲.md",
     "02笔记库/03English Study/01四级/单词.md",
     "模板/通用.md",
     "02笔记库/03English Study/01四级/01单词课/00预备课2 如何提高听力.md",
@@ -211,12 +214,10 @@
     "未命名.md",
     "02笔记库/03English Study/01四级",
     "02笔记库/03English Study",
-    "模板/题解模板.md",
     "02笔记库/01题解/P2615神奇的幻方.md",
     "附件/Pasted image 20231114182921.png",
     "附件/Pasted image 20231114182802.png",
     "02笔记库/01题解",
-    "模板/ZK笔记模板.md",
     "日记/2021-12-06.md",
     "日记/未命名.md",
     "Zettelkasten/202109121613第一张ZK笔记.md",

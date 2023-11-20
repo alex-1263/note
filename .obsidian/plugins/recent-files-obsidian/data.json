@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "通用",
+      "path": "模板/通用.md"
+    },
+    {
+      "basename": "ZK笔记模板",
+      "path": "模板/ZK笔记模板.md"
+    },
+    {
+      "basename": "题解模板",
+      "path": "模板/题解模板.md"
+    },
+    {
       "basename": "01第二讲",
       "path": "02笔记库/03English Study/01四级/01单词课/01第二讲.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "单词",
       "path": "02笔记库/03English Study/01四级/单词.md"
-    },
-    {
-      "basename": "通用",
-      "path": "模板/通用.md"
     },
     {
       "basename": "00预备课2 如何提高听力",
@@ -71,14 +79,6 @@
     {
       "basename": "202311030152",
       "path": "Zettelkasten/202311030152.md"
-    },
-    {
-      "basename": "题解模板",
-      "path": "模板/题解模板.md"
-    },
-    {
-      "basename": "ZK笔记模板",
-      "path": "模板/ZK笔记模板.md"
     },
     {
       "basename": "2021-12-06",
