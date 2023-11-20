@@ -53,7 +53,7 @@ One of the major **causes** of malnutrition in [developing countries](https:/
 **do not know how to use 不知道如何使用**
 **afford 负担-affordable **
 **imported 进口-exported 出口**
+**neglects 忽视**
 
 In places with a lack of or dirty drinking [water](https://www.english-online.at/geography/water/water-cycle-treatment.htm) diseases, like **diarrhea**, lead to **indigestion** of food.
-
 **Digestive disorders** may also be causes of malnutrition. People eat properly but their body cannot **digest** the food. In the Third World many mothers do not **breastfeed** their children, thus **weakening** the immune system.
