@@ -110,5 +110,14 @@
       ],
       "key": "6"
     }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }
