@@ -23,7 +23,10 @@ It **occurs** when a person eats too little or too much, or has an **unbalanc
 Malnutrition happens when people **lack** **nutrients**, [vitamins](https://www.english-online.at/health_medicine/vitamins/vitamins%20and%20vitamin-supplements.htm) and minerals. Not enough **proteins** can have negative effects on a person’s growth and lead to **physical** problems. Vitamins are important for good health and the **functioning** of your body. A lack of them can cause **major** problems. Vitamin A **deficiency** may lead to eye problems and blindness. A lack of calcium leads to a bad growth of [bones](https://www.english-online.at/biology/bones/human-bones.htm) and [teeth](https://www.english-online.at/biology/teeth/human-teeth.htm). **Iron deficiency** can **affect** the [**brain**](https://www.english-online.at/biology/human-brain/parts-and-functions-of-the-brain.htm) and lead to a lower IQ rate. It can make children less active and not able to concentrate.
 **vitamins 维生素**
 **proteins 蛋白质**
-
+**negative--pessimistic 消极的**
+**positive--optimistic 积极的**
+**effect--influence**
+****
 
 
 Malnutrition **increases** the risk of **diseases** and weakens the immune system. It **affects** the **transmission** of viruses, **including** [HIV](https://www.english-online.at/health_medicine/aids/growth-causes-of-aids.htm). It is **especially** **widespread** among women, children and older people. Children can be at risk even before birth because they **depend** on the mother’s **nutrition**.
@@ -34,4 +37,4 @@ One of the major **causes** of malnutrition in [developing countries](https:/
 
 In places with a lack of or dirty drinking [water](https://www.english-online.at/geography/water/water-cycle-treatment.htm) diseases, like **diarrhea**, lead to **indigestion** of food.
 
-**Digestive disorders** may also be causes of malnutrition. People eat properly but their body cannot **digest** the food. In the Third World many mothers do not **breastfeed** their children, thus **weakening** the immune system.
+**Digestive disorders** may also be causes of malnutrition. People eat properly but their body cannot **digest** the food. In the Third World many mothers do not **breastfeed** their children, thus **weakening** the immune sys
