@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75236a83536b3947",
+            "id": "729389266cd26857",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +174,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "75236a83536b3947",
+  "active": "729389266cd26857",
   "lastOpenFiles": [
+    "00 Inbox/蓝桥杯备赛.md",
     "附件/Pasted image 20231120125123.png",
     "附件/Pasted image 20231120125043.png",
     "附件/Pasted image 20231120125011.png",
@@ -194,9 +187,7 @@
     "附件/Pasted image 20231120124638.png",
     "附件/Pasted image 20231120124615.png",
     "附件/Pasted image 20231120124555.png",
-    "附件/Pasted image 20231120124513.png",
     "00 Inbox/看板演示.md",
-    "00 Inbox/蓝桥杯备赛.md",
     "Excalidraw/Drawing 2023-11-20 12.30.02.excalidraw.md",
     "模板/题解模板.md",
     "00 Inbox/Excalidraw演示.excalidraw.md",
