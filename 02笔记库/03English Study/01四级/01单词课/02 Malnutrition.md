@@ -26,7 +26,9 @@ Malnutrition happens when people **lack** **nutrients**, [vitamins](https://w
 **negative--pessimistic 消极的**
 **positive--optimistic 积极的**
 **effect--influence**
-****
+**physical --- physics物理课**
+**physician 内科医生 surgeon外科医生**
+funtion
 
 
 Malnutrition **increases** the risk of **diseases** and weakens the immune system. It **affects** the **transmission** of viruses, **including** [HIV](https://www.english-online.at/health_medicine/aids/growth-causes-of-aids.htm). It is **especially** **widespread** among women, children and older people. Children can be at risk even before birth because they **depend** on the mother’s **nutrition**.
@@ -37,4 +39,4 @@ One of the major **causes** of malnutrition in [developing countries](https:/
 
 In places with a lack of or dirty drinking [water](https://www.english-online.at/geography/water/water-cycle-treatment.htm) diseases, like **diarrhea**, lead to **indigestion** of food.
 
-**Digestive disorders** may also be causes of malnutrition. People eat properly but their body cannot **digest** the food. In the Third World many mothers do not **breastfeed** their children, thus **weakening** the immune sys
+**Digestive disorders** may also be causes of malnutrition. People eat properly but their body cannot **digest** the food. In the Third World many mothers do not **breastfeed** their children, thus **weakening** the immune system.
