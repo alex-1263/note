@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板/ZK笔记模板.md",
+                "file": "02笔记库/03English Study/01四级/01单词课/01第一讲.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,12 +196,13 @@
   },
   "active": "a83283f375dd7d97",
   "lastOpenFiles": [
+    "02笔记库/03English Study/01四级/01单词课/01第一讲.md",
+    "02笔记库/03English Study/01四级/01单词课/未命名东a.md",
     "模板/ZK笔记模板.md",
+    "模板/通用.md",
     "模板/题解模板.md",
     "02笔记库/03English Study/01四级/01单词课/01第二讲.md",
-    "02笔记库/03English Study/01四级/01单词课/01第一讲.md",
     "02笔记库/03English Study/01四级/单词.md",
-    "模板/通用.md",
     "02笔记库/03English Study/01四级/01单词课/00预备课2 如何提高听力.md",
     "02笔记库/03English Study/01四级/01单词课/00预备课5 大学生必须知道的英文术语.md",
     "02笔记库/03English Study/01四级/01单词课/00预备课1 词汇构造法－词根词缀.md",
@@ -231,7 +232,6 @@
     "00演示文件夹/Excalidraw演示.excalidraw.md",
     "工具学习/git/git 如何添加文件.md",
     "工具学习/git",
-    "02笔记库/02工具学习",
-    "00演示文件夹/Excalidraw演示.md"
+    "02笔记库/02工具学习"
   ]
 }
