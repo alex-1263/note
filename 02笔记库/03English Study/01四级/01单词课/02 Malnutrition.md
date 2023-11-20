@@ -41,10 +41,11 @@ Malnutrition **increases** the risk of **diseases** and weakens the immune s
 **depend on =rely on 依赖 dependence=reliance n.**
 **independent 独立的**
 
-
-
 One in ten people around the world is **malnourished**. Eating disorders **account** for 60 million deaths a year, including six million children. It is the main **cause** of child **mortality**.
-### **Causes of malnutrition**
+**one in ten 十分之一**
+**account for 对...负有责任;对...**
+
+ **Causes of malnutrition**
 One of the major **causes** of malnutrition in [developing countries](https://www.english-online.at/geography/developing-countries/characteristics-of-developing-countries.htm) is **famine** and **drought** which lead to the **unavailability** of food. Many countries in the Third World to not have enough land to grow [food](https://www.english-online.at/health_medicine/nutrition/nutrition-how-the-body-uses-food.htm) on or do not know how to use it. They do not have the money to **afford** imported food. In other countries the government **neglects** the importance of **agriculture** and does not help famers.
 
 In places with a lack of or dirty drinking [water](https://www.english-online.at/geography/water/water-cycle-treatment.htm) diseases, like **diarrhea**, lead to **indigestion** of food.
