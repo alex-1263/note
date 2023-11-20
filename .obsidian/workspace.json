@@ -11,8 +11,12 @@
             "id": "729389266cd26857",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/蓝桥杯备赛.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -111,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Inbox/蓝桥杯备赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 Inbox/蓝桥杯备赛.md"
+              }
             }
           },
           {
@@ -146,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Inbox/蓝桥杯备赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
