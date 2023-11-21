@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛 1.md",
+                "file": "00 Inbox/蓝桥杯.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛 1.md",
+                "file": "00 Inbox/蓝桥杯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛 1.md"
+                "file": "00 Inbox/蓝桥杯.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛 1.md",
+                "file": "00 Inbox/蓝桥杯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +173,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "69de0e509b120746",
+  "active": "0c468a12159001c4",
   "lastOpenFiles": [
     "00 Inbox/蓝桥杯备赛.md",
-    "00 Inbox/蓝桥杯备赛 1.md",
+    "00 Inbox/蓝桥杯.md",
     "附件/Pasted image 20231121014103.png",
     "附件/Pasted image 20231121014048.png",
     "附件/Pasted image 20231121014021.png",
