@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md",
+                "file": "00 Inbox/蓝桥杯备赛 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md",
+                "file": "00 Inbox/蓝桥杯备赛 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md"
+                "file": "00 Inbox/蓝桥杯备赛 1.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/蓝桥杯备赛.md",
+                "file": "00 Inbox/蓝桥杯备赛 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,6 +175,8 @@
   },
   "active": "69de0e509b120746",
   "lastOpenFiles": [
+    "00 Inbox/蓝桥杯备赛.md",
+    "00 Inbox/蓝桥杯备赛 1.md",
     "附件/Pasted image 20231121014103.png",
     "附件/Pasted image 20231121014048.png",
     "附件/Pasted image 20231121014021.png",
@@ -186,10 +188,8 @@
     "00 Inbox/看板演示.md",
     "模板/通用.md",
     "模板/ZK笔记模板.md",
-    "00 Inbox/蓝桥杯备赛.md",
     "附件/Pasted image 20231121003242.png",
     "附件/Pasted image 20231121003228.png",
-    "附件/Pasted image 20231121003150.png",
     "conflict-files-obsidian-git.md",
     "请先阅读这里（Readme）.md",
     "02笔记库/这里可以放置你的笔记.md",
