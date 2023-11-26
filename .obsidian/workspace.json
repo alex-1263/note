@@ -52,14 +52,6 @@
             }
           },
           {
-            "id": "b927ad9d66722d58",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "26dfef07cc02df70",
             "type": "leaf",
             "state": {
@@ -72,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md"
               }
             }
           },
@@ -199,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,10 +220,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "26dfef07cc02df70",
+  "active": "a76e72bf4e07625f",
   "lastOpenFiles": [
-    "未命名.md",
     "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
+    "未命名.md",
     "02笔记库/01题解/P2615神奇的幻方.md",
     "00 Inbox/蓝桥杯备赛.md",
     "00 Inbox/蓝桥杯.md",
