@@ -31,6 +31,7 @@ public class Main {
             }
         }
 		输出格式我没看到,你自己写一下.
+		你看一下最后运行出来是从高到低,还是从低到高,好像写反了
         for (int i = 0; i < n; i++) {
             System.out.println(name[i] + " " + height[i]);
         }
