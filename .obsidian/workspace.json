@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "78dfaebd800b27f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "股票价格.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a76e72bf4e07625f",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "身高排序 我写的c代码,让gpt翻译的,细看,可能有点问题 看完咳一声.md",
+                "file": "股票价格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "身高排序 我写的c代码,让gpt翻译的,细看,可能有点问题 看完咳一声.md"
+                "file": "股票价格.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "身高排序 我写的c代码,让gpt翻译的,细看,可能有点问题 看完咳一声.md",
+                "file": "股票价格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +232,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "26dfef07cc02df70",
+  "active": "78dfaebd800b27f5",
   "lastOpenFiles": [
-    "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
+    "股票价格.md",
     "身高排序 我写的c代码,让gpt翻译的,细看,可能有点问题 看完咳一声.md",
+    "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
     "02笔记库/01题解/P2615神奇的幻方.md",
     "00 Inbox/蓝桥杯备赛.md",
     "00 Inbox/蓝桥杯.md",
