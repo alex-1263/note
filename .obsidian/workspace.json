@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b94783d75cb07370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02笔记库/01题解/P2615神奇的幻方.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c00622e47bed8a4",
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/01题解/P2615神奇的幻方.md",
+                "file": "00 Inbox/蓝桥杯备赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/01题解/P2615神奇的幻方.md"
+                "file": "00 Inbox/蓝桥杯备赛.md"
               }
             }
           },
@@ -159,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/01题解/P2615神奇的幻方.md",
+                "file": "00 Inbox/蓝桥杯备赛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,13 +174,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b94783d75cb07370",
+  "active": "69de0e509b120746",
   "lastOpenFiles": [
+    "02笔记库/01题解/P2615神奇的幻方.md",
     "前面那题看完没.md",
     "股票价格  也是gpt翻译的,抄的时候想一下.md",
     "身高排序 我写的c代码,让gpt翻译的,细看,可能有点问题 看完咳一声.md",
     "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
-    "02笔记库/01题解/P2615神奇的幻方.md",
     "00 Inbox/蓝桥杯备赛.md",
     "00 Inbox/蓝桥杯.md",
     "00 Inbox/看板演示.md",
