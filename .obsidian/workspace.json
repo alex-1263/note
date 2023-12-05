@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
-                "mode": "source",
+                "file": "00 Inbox/未命名.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "00 Inbox/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md"
+                "file": "00 Inbox/未命名.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "00 Inbox/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,9 @@
   },
   "active": "69de0e509b120746",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "02笔记库/02工具学习/Git.md",
+    "00 Inbox/未命名.md",
+    "conflict-files-obsidian-git.md",
     "00 Inbox/蓝桥杯备赛.md",
     "02笔记库/01题解/P2615神奇的幻方.md",
     "前面那题看完没.md",
