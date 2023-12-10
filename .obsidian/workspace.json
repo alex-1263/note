@@ -11,16 +11,6 @@
             "id": "69de0e509b120746",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "00 Inbox/看板演示.md"
-              }
-            }
-          },
-          {
-            "id": "2c37e15f2038e77a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "00 Inbox/存储器管理实验流程图.md",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +174,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2c37e15f2038e77a",
+  "active": "69de0e509b120746",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "00 Inbox/看板演示.md",
     "00 Inbox/存储器管理实验流程图.md",
+    "conflict-files-obsidian-git.md",
     "00 Inbox/未命名.md",
     "00 Inbox/计挑赛Python.md",
-    "00 Inbox/看板演示.md",
     "02笔记库/02工具学习/Git.md",
     "00 Inbox/蓝桥杯备赛.md",
     "02笔记库/01题解/P2615神奇的幻方.md",
