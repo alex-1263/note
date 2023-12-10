@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
-                "mode": "preview",
+                "file": "00 Inbox/计挑赛Python.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "00 Inbox/计挑赛Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md"
+                "file": "00 Inbox/计挑赛Python.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "00 Inbox/计挑赛Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,9 @@
   },
   "active": "69de0e509b120746",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "02笔记库/02工具学习/Git.md",
+    "00 Inbox/计挑赛Python.md",
+    "conflict-files-obsidian-git.md",
     "00 Inbox/未命名.md",
     "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md",
     "02笔记库/03English Study/01四级/01单词课/01 Hypertension.md",
