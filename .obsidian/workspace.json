@@ -11,15 +11,26 @@
             "id": "69de0e509b120746",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00 Inbox/看板演示.md"
+              }
+            }
+          },
+          {
+            "id": "2c37e15f2038e77a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/计挑赛Python.md",
-                "mode": "source",
+                "file": "00 Inbox/存储器管理实验流程图.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/计挑赛Python.md",
+                "file": "00 Inbox/存储器管理实验流程图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/计挑赛Python.md"
+                "file": "00 Inbox/存储器管理实验流程图.md"
               }
             }
           },
@@ -145,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/计挑赛Python.md",
+                "file": "00 Inbox/存储器管理实验流程图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,17 +185,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "69de0e509b120746",
+  "active": "2c37e15f2038e77a",
   "lastOpenFiles": [
-    "02笔记库/02工具学习/Git.md",
-    "00 Inbox/计挑赛Python.md",
     "conflict-files-obsidian-git.md",
+    "00 Inbox/存储器管理实验流程图.md",
     "00 Inbox/未命名.md",
-    "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md",
-    "02笔记库/03English Study/01四级/01单词课/01 Hypertension.md",
-    "02笔记库/这里可以放置你的笔记.md",
-    "02笔记库/03English Study/01四级/单词.md",
-    "00 Inbox/四级.md",
+    "00 Inbox/计挑赛Python.md",
+    "00 Inbox/看板演示.md",
+    "02笔记库/02工具学习/Git.md",
     "00 Inbox/蓝桥杯备赛.md",
     "02笔记库/01题解/P2615神奇的幻方.md",
     "前面那题看完没.md",
@@ -192,7 +200,7 @@
     "身高排序 我写的c代码,让gpt翻译的,细看,可能有点问题 看完咳一声.md",
     "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
     "00 Inbox/蓝桥杯.md",
-    "00 Inbox/看板演示.md",
+    "00 Inbox/四级.md",
     "00 Inbox/蓝桥杯 1.md",
     "附件/25C68ADE9B88CEF571ECB91BEB9CB945 1.png",
     "附件/25C68ADE9B88CEF571ECB91BEB9CB945.png",
@@ -209,6 +217,7 @@
     "模板/通用.md",
     "模板/ZK笔记模板.md",
     "请先阅读这里（Readme）.md",
+    "02笔记库/这里可以放置你的笔记.md",
     "00演示文件夹/看板演示.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
     "00演示文件夹/Excalidraw演示.md",
