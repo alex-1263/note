@@ -6,3 +6,5 @@
 # 流程
 1. 打开梯子
 2. 访问outlook邮箱[注册链接](https://www.microsoft.com/zh-cn/microsoft-365/outlook)
+3. 选择创建账号![[Pasted image 20231220000817.png]]
+4. 
