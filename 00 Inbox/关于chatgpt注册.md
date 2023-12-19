@@ -2,8 +2,8 @@
 1. 一个梯子
 2. 一个outlook邮箱
 
-**本文只演示如何注册outlook邮箱,和chatgpt**
-# 流程
+**本文只演示如何注册outlook邮箱,和chatgpt!!!**
+# 准备工作
 1. 打开梯子
 2. 访问outlook邮箱[注册链接](https://www.microsoft.com/zh-cn/microsoft-365/outlook)
 3. 选择创建账号![[Pasted image 20231220000817.png]]![[Pasted image 20231220001102.png]]
@@ -14,3 +14,5 @@
 8. 地区选择和出生年月(随便输)![[Pasted image 20231220001547.png]]
 9. 登录注册好的邮箱
 # 注册gpt
+1. 打开[chatgpt](https://chat.openai.com/)
+2. 
