@@ -7,3 +7,5 @@
 1. 打开梯子
 2. 访问outlook邮箱[注册链接](https://www.microsoft.com/zh-cn/microsoft-365/outlook)
 3. 选择创建账号![[Pasted image 20231220000817.png]]![[Pasted image 20231220001102.png]]
+4. 选择获得一个新邮箱地址![[Pasted image 20231220001145.png]]
+5. 
