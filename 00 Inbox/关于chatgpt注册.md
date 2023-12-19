@@ -20,4 +20,4 @@
 4. 这里我们选择邮箱注册 **ps:密码要求最短长度为12位**![[Pasted image 20231220002154.png]]
 5. 在登陆的outlook中点击确认邮件![[Pasted image 20231220002307.png]]![[Pasted image 20231220002633.png]]
 6. 输入姓名![[Pasted image 20231220002644.png]]
-7. 
+7. 注册成功![[Pasted image 20231220002834.png]]
