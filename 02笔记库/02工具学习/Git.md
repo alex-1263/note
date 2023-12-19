@@ -70,5 +70,5 @@ git clone git@github.com:michaelliao/gitskills.git
 git中的分支其实就是一个指针,所以git合并分支的速度会很快
 当在`dev`中对一个文件并修改后,只能在`dev`分支中查看到,如果想在`master`分支中查看,需要先将分支切换到`master`,然后再使用`git merge dev`将`dev`分支中的修改合并到`master`分支中,在合并后可以使用`git branch -d dev`将`dev`分支删除
 在新版本的git中更加鼓励使用`git switch dev`来替换`git checkout dev`,`git switch -c dev`替换`git checkout -b dev`
-<font color=#f20736>**对于所有的分支,暂存区和公共区市公共的**</font>
+<font color=#f20736>**对于所有的分支,暂存区和公共区是公共的**</font>
 
