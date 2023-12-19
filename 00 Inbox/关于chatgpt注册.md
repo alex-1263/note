@@ -15,4 +15,5 @@
 9. 登录注册好的邮箱
 # 注册gpt
 1. 打开[chatgpt](https://chat.openai.com/)
-2. 
+2. 选择注册![[Pasted image 20231220001917.png]]
+3. 这里可以选择用邮箱注册,也可以选择用微软邮箱登录 **ps:如果选择邮箱登录,**![[Pasted image 20231220001951.png]]
