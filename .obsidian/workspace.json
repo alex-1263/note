@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/规划.md",
+                "file": "00 Inbox/关于chatgpt注册.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/规划.md",
+                "file": "00 Inbox/关于chatgpt注册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/规划.md"
+                "file": "00 Inbox/关于chatgpt注册.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/规划.md",
+                "file": "00 Inbox/关于chatgpt注册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,9 @@
   },
   "active": "4db78aa3b32be793",
   "lastOpenFiles": [
-    "00 Inbox/未命名.md",
     "00 Inbox/规划.md",
+    "00 Inbox/关于chatgpt注册.md",
+    "00 Inbox/未命名.md",
     "00 Inbox/四级.md",
     "00 Inbox/蓝桥杯备赛.md",
     "00 Inbox/蓝桥杯.md",
@@ -212,7 +213,6 @@
     "附件/Pasted image 20231121013706.png",
     "附件/Pasted image 20231121013336.png",
     "模板/通用.md",
-    "模板/ZK笔记模板.md",
-    "00演示文件夹/看板演示.md"
+    "模板/ZK笔记模板.md"
   ]
 }
