@@ -11,8 +11,12 @@
             "id": "593500e6df829751",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/02工具学习/Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02笔记库/02工具学习/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02笔记库/02工具学习/Git.md"
+              }
             }
           },
           {
@@ -138,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02笔记库/02工具学习/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
