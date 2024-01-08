@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c19a50c06473059",
+        "id": "4781bc59977b8f92",
         "type": "tabs",
         "children": [
           {
-            "id": "4db78aa3b32be793",
+            "id": "593500e6df829751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/关于chatgpt注册.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/关于chatgpt注册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 Inbox/关于chatgpt注册.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/关于chatgpt注册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +166,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4db78aa3b32be793",
+  "active": "593500e6df829751",
   "lastOpenFiles": [
+    "00 Inbox/关于chatgpt注册.md",
     "附件/Pasted image 20231220002834.png",
     "附件/Pasted image 20231220002644.png",
     "附件/Pasted image 20231220002633.png",
@@ -186,9 +179,7 @@
     "附件/Pasted image 20231220001547.png",
     "附件/Pasted image 20231220001456.png",
     "附件/Pasted image 20231220001341.png",
-    "附件/Pasted image 20231220001308.png",
     "00 Inbox/[.md",
-    "00 Inbox/关于chatgpt注册.md",
     "00 Inbox/规划.md",
     "00 Inbox/未命名.md",
     "00 Inbox/四级.md",
