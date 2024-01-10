@@ -11,11 +11,9 @@
             "id": "593500e6df829751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "高达取件表/PB全装备海盗.md",
-                "mode": "source",
-                "source": false
+                "file": "00 Inbox/看板演示.md"
               }
             }
           }
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高达取件表/PB全装备海盗.md",
+                "file": "00 Inbox/看板演示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高达取件表/PB全装备海盗.md"
+                "file": "00 Inbox/看板演示.md"
               }
             }
           },
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高达取件表/PB全装备海盗.md",
+                "file": "00 Inbox/看板演示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +172,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "593500e6df829751",
+  "active": "0c468a12159001c4",
   "lastOpenFiles": [
-    "00 Inbox/看板演示.md",
     "高达取件表/PB全装备海盗.md",
     "高达取件表",
+    "00 Inbox/看板演示.md",
     "00 Inbox/未命名.md",
     "00 Inbox/四级.md",
     "02笔记库/04杂物/蓝桥杯备赛.md",
@@ -213,7 +211,6 @@
     "附件/Pasted image 20231220001341.png",
     "看板插件（Kanba插件介绍）by 软通达.md",
     "请先阅读这里（Readme）.md",
-    "conflict-files-obsidian-git.md",
     "附件/我的第一本算法书 1.pdf",
     "附件/我的第一本算法书.pdf"
   ]
