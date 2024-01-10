@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "00 Inbox/规划.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dafef9b1b29b6530",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "00 Inbox/规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md"
+                "file": "00 Inbox/规划.md"
               }
             }
           },
@@ -156,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/02工具学习/Git.md",
+                "file": "00 Inbox/规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +174,23 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dafef9b1b29b6530",
+  "active": "593500e6df829751",
   "lastOpenFiles": [
     "00 Inbox/关于chatgpt注册.md",
+    "00 Inbox/存储器管理实验流程图.md",
+    "00 Inbox/[.md",
+    "Zettelkasten/202109121613第一张ZK笔记.md",
+    "Zettelkasten/202311201223.md",
+    "Zettelkasten/202311030152.md",
+    "Zettelkasten/202311030151.md",
+    "Excalidraw/Drawing 2023-11-20 12.30.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-03 01.51.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-01 17.04.31.excalidraw.md",
+    "日记/未命名.md",
+    "日记/2023-11-18.md",
+    "日记/2021-12-06.md",
+    "02笔记库/01题解/P2615神奇的幻方.md",
+    "02笔记库/02工具学习/Git.md",
     "附件/Pasted image 20231220002834.png",
     "附件/Pasted image 20231220002644.png",
     "附件/Pasted image 20231220002633.png",
@@ -198,7 +201,6 @@
     "附件/Pasted image 20231220001547.png",
     "附件/Pasted image 20231220001456.png",
     "附件/Pasted image 20231220001341.png",
-    "00 Inbox/[.md",
     "00 Inbox/规划.md",
     "00 Inbox/未命名.md",
     "00 Inbox/四级.md",
@@ -206,22 +208,10 @@
     "00 Inbox/蓝桥杯.md",
     "00 Inbox/看板演示.md",
     "00 Inbox/计挑赛Python.md",
-    "00 Inbox/存储器管理实验流程图.md",
     "看板插件（Kanba插件介绍）by 软通达.md",
     "请先阅读这里（Readme）.md",
-    "02笔记库/02工具学习/Git.md",
     "conflict-files-obsidian-git.md",
     "00 Inbox/四级作文.md",
-    "02笔记库/03English Study/01四级/01单词课/02 Malnutrition.md",
-    "02笔记库/03English Study/01四级/01单词课/01 Hypertension.md",
-    "02笔记库/这里可以放置你的笔记.md",
-    "02笔记库/03English Study/01四级/单词.md",
-    "02笔记库/01题解/P2615神奇的幻方.md",
-    "前面那题看完没.md",
-    "股票价格  也是gpt翻译的,抄的时候想一下.md",
-    "身高排序 我写的c代码,让gpt翻译的,细看,可能有点问题 看完咳一声.md",
-    "力扣原题... 小明从原点开始,你俩改一下变量,别雷同了,看见标题咳一声,然后看完代码再咳一声,我往下翻.....md",
-    "00 Inbox/蓝桥杯 1.md",
     "附件/我的第一本算法书 1.pdf",
     "附件/我的第一本算法书.pdf"
   ]
