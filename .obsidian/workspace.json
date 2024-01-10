@@ -11,8 +11,10 @@
             "id": "593500e6df829751",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "00 Inbox/看板演示.md"
+              }
             }
           }
         ]
@@ -103,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Inbox/看板演示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 Inbox/看板演示.md"
+              }
             }
           },
           {
@@ -138,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Inbox/看板演示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
