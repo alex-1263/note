@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dafef9b1b29b6530",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +185,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "593500e6df829751",
+  "active": "dafef9b1b29b6530",
   "lastOpenFiles": [
     "00 Inbox/关于chatgpt注册.md",
     "附件/Pasted image 20231220002834.png",
