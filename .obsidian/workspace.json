@@ -11,9 +11,11 @@
             "id": "593500e6df829751",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00 Inbox/看板演示.md"
+                "file": "高达取件表/PB全装备海盗.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/看板演示.md",
+                "file": "高达取件表/PB全装备海盗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/看板演示.md"
+                "file": "高达取件表/PB全装备海盗.md"
               }
             }
           },
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/看板演示.md",
+                "file": "高达取件表/PB全装备海盗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +176,14 @@
   },
   "active": "593500e6df829751",
   "lastOpenFiles": [
+    "00 Inbox/看板演示.md",
+    "高达取件表/PB全装备海盗.md",
+    "高达取件表",
     "00 Inbox/未命名.md",
     "00 Inbox/四级.md",
     "02笔记库/04杂物/蓝桥杯备赛.md",
     "02笔记库/04杂物/蓝桥杯.md",
     "02笔记库/04杂物",
-    "00 Inbox/看板演示.md",
     "02笔记库/02工具学习/关于chatgpt注册.md",
     "00 Inbox/计挑赛Python.md",
     "00 Inbox/规划.md",
